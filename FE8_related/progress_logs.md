@@ -1,4 +1,4 @@
-General change up until the current editted chapter:
+General change up until the current edited chapter:
   * Difficulty bonus rised from +1 +0 +0 to +2 +0 +0 (Hard - Normal - Easy)
   * Added fog with visibility range of 3 (Effect will enhance on existed foggy maps)
   - Exceptions (Globally):
@@ -8,12 +8,12 @@ General change up until the current editted chapter:
   * Added a Lvl. 5 Mage and a Lvl. 30 OG Phantom with a Chest Key after turn 2
   * Made all enemies grow in stats (Class dependence)
   * Promoted O'Neil to Warrior 
-  * Slightly editted the map and the weather
+  * Slightly edited the map and the weather
   * Dialogue texts stayed the same
     
 12/25/2024 (Asia): Remade Ch. 1
-  * Editted the class and added a stronger Phantom with high stat growth (No exp dropped when it's dead)
-  * Editted the item and added a more durable Slim Sword for beginners with stat boost of Mv inreasing by 1 in exchange for downsides of every other stat boosts (HP doubled)
+  * Edited the class and added a stronger Phantom with high stat growth (No exp dropped when it's dead)
+  * Edited the item and added a more durable Slim Sword for beginners with stat boost of Mv inreasing by 1 in exchange for downsides of every other stat boosts (HP doubled)
   * Added a Lvl. 5 New Phantom regularly starting from turn 5
   * Remove Gilliam
   * Added a Chest containing the new Slim Sword
