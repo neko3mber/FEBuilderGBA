@@ -1,3 +1,5 @@
+Logs
+===
 General change up until the current edited chapter:
   * Difficulty bonus rised from +1 +0 +0 to +2 +0 +0 (Hard - Normal - Easy)
   * Added fog with visibility range of 3 (Effect will enhance on existed foggy maps)
