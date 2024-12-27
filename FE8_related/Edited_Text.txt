@@ -33,7 +33,7 @@ Dropped
 [10]
 Sent [.]
 [11]
-.[.]
+The fort was destroyed.
 [12]
 The village was destroyed.
 [13]
@@ -289,7 +289,7 @@ TURN
 [90]
 Animation[.]
 [91]
-Terrain[.]
+Rewind 1Turn
 [92]
 Unit
 [93]
@@ -341,7 +341,7 @@ Set message speed (fast)
 [AA]
 Set message speed (autoscroll)
 [AB]
-Turn Terrain window on or off[.]
+Reset & Resume but won't help(Normal)
 [AC]
 Show normal unit window[.]
 [AD]
@@ -869,7 +869,7 @@ gate
 [01AB]
 Seize the throne
 [01AC]
-Defeat all
+Defeat all 
 enemy units[.]
 [01AD]
 Seize the castle
@@ -3557,7 +3557,6 @@ reversed with a Restore staff.
 Here is the information shown if
 you choose the strategic
 combat information window:
-
 HP: Unit's remaining HP.
 MT: Amount of damage the
 equipped weapon inflicts.[.]
@@ -3568,7 +3567,6 @@ land a critical blow.[.]
 Here is the information shown if
 you choose the detailed[.]
 combat information window:
-
 HP: Unit's remaining HP.
 ATK: Amount of damage your
 attack will inflict.
@@ -5791,7 +5789,6 @@ brother from beneath enemy eyes.[A]
 Renvall, where Ephraim is being held.[.][A]
 [LoadOverworldFaces]Surrounded by lakes, Renvall is a natural[.]
 fortress, all but unassailable.[.][A]
-
 A lone bridge, held by the enemy, is its
 only entrance.[A][Clear]
 Eirika has only one choice.[.][A]
@@ -5835,7 +5832,6 @@ opponent of Grado's imperialistic actions,[A]
 this conflict.[A]
 [LoadOverworldFaces]Prince Innes also intends to pass through 
 Carcino on his way to Jehanna.[A]
-
 Eirika believes there is nothing to fear [.]
 in Carcino, but she is wrong.[.][A]
 [LoadOverworldFaces]
@@ -5850,10 +5846,8 @@ back, he is trapped in a hopeless situation.[A]
 [LoadOverworldFaces]
 [08E8]
 The Caer Pelyn Range...[.][A]
-
 According to Ewan, a little-known passage 
 to Jehanna lies there,[A]
-
 hidden within its cracked red bedrock and 
 knife-edged peaks.[A]
 [LoadOverworldFaces]To avoid Carcino and combat, Eirika's[.]
@@ -5869,15 +5863,12 @@ This largely barren desert nation is infamous
 for its mercenary forces.[.][A]
 [LoadOverworldFaces]In accordance with her husband's dying wish, [.]
 the beautiful Ismaire rules Jehanna.[A]
-
 The Queen of the White Dunes governs [.]
 Jehanna with grace and honor.[.][A]
-
 When he was young, her son left Jehanna.
 His whereabouts remain unknown.[.][A]
 [LoadOverworldFaces]After passing through Caer Pelyn, Eirika [.]
 arrives in Jehanna.[.][A]
-
 There, she finds the nation embroiled in [.]
 combat with Grado's forces.[.][A]
 [LoadOverworldFaces]
@@ -5892,13 +5883,11 @@ the edge of ruin.[.][A]
 indeed been captured by Grado.[A]
 [LoadOverworldFaces]To rescue Queen Ismaire and recover 
 Jehanna's Sacred Stone,[.][A]
-
 Eirika leads an assault on the royal hall.[A]
 [LoadOverworldFaces]
 [08EB]
 Jehanna Hall has capitulated to Grado's 
 forces and the Knights of Rausten,[A]
-
 who rode to Jehanna's aid, have been routed 
 by General Valter.[A]
 [LoadOverworldFaces]On their own again, Eirika and company flee 
@@ -5910,7 +5899,6 @@ Enemy forces close in on all sides.[.][A]
 [LoadOverworldFaces]
 [08EC]
 The capital of Renais.[A]
-
 After the twins' absence, seeing their home[.]
 ruined by war brings them terrible grief.[.][A]
 [LoadOverworldFaces]Orson, a former Knight of Renais, had been [.]
@@ -5927,7 +5915,6 @@ King radiate a constant and dazzling light.[.][A]
 the dark, the last hope of humanity. [.][A]
 [LoadOverworldFaces]It is only natural that evil would seek[.]
 to destroy the Sacred Stones...[.][A]
-
 There can be no other force behind this[.]
 attempt to gain the stones.[.][A]
 [LoadOverworldFaces]A childhood friend appears before Eirika.[.][A]
@@ -5935,14 +5922,12 @@ attempt to gain the stones.[.][A]
 [08EE]
 The group sets off in search of Grado's 
 elusive Imperial Prince Lyon.[.][A]
-
 Innes has ordered Frelian troops to aid in [.]
 the hunt.[.][A]
 The troops return with news that Lyon has 
 moved north.[A]
 [LoadOverworldFaces]The group's search for Lyon leads them to 
 Mt. Neleras, in the heart of Darkling Woods.[A]
-
 The scorching heat and sulphur stench render [.]
 the area unfit for human habitation...[A]
 [LoadOverworldFaces]Endless numbers of gorgon eggs stud the 
@@ -5955,7 +5940,6 @@ Constant strife with dark creatures has[.]
 made the group's progress near impossible.[A]
 [LoadOverworldFaces]Princess L'Arachel of Rausten suggests they[.]
 pay a visit to Rausten Court.[.][A]
-
 It is here that the final Sacred Stone
 is sealed away.[.][A]
 [LoadOverworldFaces]L'Arachel rides cheerfully toward her homeland [.]
@@ -5966,25 +5950,19 @@ According to legend, the Sacred Stones [.]
 have sealed evil away from the world.[.][A]
 Four of the five stones have been destroyed,
 leaving only the last stone intact.[.][A]
-
 The last stone must be protected to stave[.]
 off the Demon King's restoration.[.][A]
 [LoadOverworldFaces]Eirika and company challenge the demons of [.]
 Darkling Woods.[.][A]
 [LoadOverworldFaces]According to legend,[A]
-
 the original possessors of the Sacred Stones
 defeated the Demon King in Darkling Woods.[A]
-
 His foul blood seeped into the land,
 corrupting every seed and every root.[.][A]
-
 The once-pristine forest was transformed by[.]
 the flood of disease and venom.[.][A]
-
 Legend says the Demon King's corpse lies [.]
 there still, not dead but dreaming.[.][A]
-
 Dreaming of when the last stone is crushed,[.][A]
 and he will rise from his bed of rocks and [.]
 worms and return to the surface.[A]
@@ -6005,7 +5983,6 @@ keeping Frelia's border intact.[.][A]
 effort to advance the front lines.[A]
 [LoadOverworldFaces]Unbeknownst to Ephraim, Grado forces are [.]
 waiting for them at Fort Rigwald.[.][A]
-
 They've fortified their positions and plan
 to wait out Frelia's siege.[.][A]
 [LoadOverworldFaces]Undaunted, Ephraim remains determined 
@@ -6020,7 +5997,6 @@ similar dispositions and a warm relationship.[.][A]
 [LoadOverworldFaces]Why has Grado started this war?[.][A]
 What is the miasma of evil emanating [.]
 from the country?[.][A]
-
 Ephraim believes that Duessel can answer
 these questions.[A]
 [LoadOverworldFaces]It is this belief that propels Ephraim
@@ -6029,14 +6005,11 @@ forward into Grado territory.[.][A]
 [08F3]
 General Duessel tells them of the enigmatic 
 Dark Stone.[.][A]
-
 The product of Grado's research into [.]
 the dark arts, [.][A]
-
 the Dark Stone possesses power far beyond 
 that of the Sacred Stones.[A]
 [LoadOverworldFaces]According to the rumors swirling about, [A]
-
 Vigarde's descent into madness coincides [.]
 with the creation of the Dark Stone.[A]
 [LoadOverworldFaces]Ephraim must confirm the existence of[.]
@@ -6048,13 +6021,10 @@ an eerie fog begins to form...[A]
 [08F4]
 Ephraim leads the group to Za'albul Marsh in [.]
 search of the missing Myrrh.[A]
-
 They learn from soldiers and villagers that 
 Myrrh had been captured by General Selena, [.][A]
-
 one of Grado's commanders.
 She was last seen heading east.[.][A]
-
 To regain their companion, the group will 
 now be forced to fight.[.][A]
 [LoadOverworldFaces]Ephraim steels his heart to the reality[.]
@@ -6064,7 +6034,6 @@ that he must face Selena.[.][A]
 Myrrh returns safely to Ephraim's side.[.][A]
 [LoadOverworldFaces]A noble warrior to the end, Selena fought[.]
 with great honor, [A]
-
 never once using Myrrh as a hostage.[A]
 [LoadOverworldFaces]Ephraim renews his vow to pierce the veil 
 of mystery surrounding the Grado Empire.[A]
@@ -6079,7 +6048,6 @@ Ephraim's sister is in danger.[A]
 Jehanna Hall, forcing its surrender.[A]
 [LoadOverworldFaces]Though Eirika and her troop have left the 
 Hall, Grado's forces pursue them relentlessly.[A]
-
 Trapped in the burning desert, enemy forces[.]
 close in on them from all sides. [.][A]
 [LoadOverworldFaces]With no time to wait for Frelia's troops, 
@@ -6088,7 +6056,6 @@ Ephraim leaves for Jehanna immediately.[.][A]
 [LoadOverworldFaces]
 [08F7]
 The capital of Renais.[A]
-
 After the twins' absence, seeing their home[.]
 ruined by war brings them terrible grief.[.][A]
 [LoadOverworldFaces]Orson, a former Knight of Renais, had been [.]
@@ -6105,7 +6072,6 @@ King radiate a constant and dazzling light.[.][A]
 the dark, the last hope of humanity. [.][A]
 [LoadOverworldFaces]It is only natural that evil would seek[.]
 to destroy the Sacred Stones...[.][A]
-
 There can be no other force behind this[.]
 attempt to gain the stones.[.][A]
 [LoadOverworldFaces]A childhood friend appears before Ephraim.[A]
@@ -6113,14 +6079,12 @@ attempt to gain the stones.[.][A]
 [08F9]
 The group sets off in search of Grado's 
 elusive Imperial Prince Lyon.[.][A]
-
 Innes has ordered Frelian troops to aid in [.]
 the hunt.[.][A]
 The troops return with news that Lyon has 
 moved north.[A]
 [LoadOverworldFaces]The group's search for Lyon leads them to[.]
 Mt. Neleras, deep within Darkling Woods.[A]
-
 The scorching heat and sulphur stench render [.]
 the area unfit for human habitation...[A]
 [LoadOverworldFaces]Endless numbers of gorgon eggs stud the 
@@ -6133,7 +6097,6 @@ Constant strife with dark creatures has[.]
 made the group's progress near impossible.[A]
 [LoadOverworldFaces]Princess L'Arachel of Rausten suggests they[.]
 pay a visit to Rausten Court.[.][A]
-
 It is here that the final Sacred Stone
 is sealed away.[.][A]
 [LoadOverworldFaces]L'Arachel rides cheerfully toward her homeland [.]
@@ -6144,25 +6107,19 @@ According to legend, the Sacred Stones [.]
 have sealed evil away from the world.[.][A]
 Four of the five stones have been destroyed,
 leaving only the last stone intact.[.][A]
-
 The last stone must be protected to stave[.]
 off the Demon King's restoration.[.][A]
 [LoadOverworldFaces]Ephraim and company challenge the demons of 
 Darkling Woods.[.][A]
 [LoadOverworldFaces]According to legend,[A]
-
 the original possessors of the Sacred Stones
 defeated the Demon King in Darkling Woods.[A]
-
 His foul blood seeped into the land,
 corrupting every seed and every root.[.][A]
-
 The once-pristine forest was transformed by[.]
 the flood of disease and venom.[.][A]
-
 Legend says the Demon King's corpse lies [.]
 there still, not dead but dreaming.[.][A]
-
 Dreaming of when the last stone is crushed,[.][A]
 and he will rise from his bed of rocks and [.]
 worms and return to the surface.[A]
@@ -26074,11 +26031,13 @@ I, too, shall search for a new path.[A][Clear]
 [ToggleSmile]A path that guides me to realizing the
 dreams Prince Lyon once held so dear.[.][A]
 [0D4C]
-[OpenMidLeft][LoadFace][0x106][OpenMidLeft]Is that Mulan I'm looking at right now?[.][A]
+[OpenMidLeft][LoadFace][0x106]
+Is that Mulan I'm looking at right now?[.][A]
 Have we reached Frelia's border already?[.][A]
 Why is the countryside full of Grado soldiers?[.][A]
 Where're all the castle guards?[.][....] 
-Has Mulan fallen? Are we too late?[A]
+Has Mulan fallen? [A]
+Am I too late?[A]
 [0D4D]
 [OpenFarFarLeft][LoadFace][0x12C]
 [OpenRight][LoadFace][0x102]
@@ -26086,39 +26045,56 @@ Has Mulan fallen? Are we too late?[A]
 [OpenMidLeft]Eirika![A]
 [OpenRight]Tana!? What are you doing here?[A]
 [OpenMidLeft]I heard that Renais had fallen.[.][A]
-I was so worried about you[ToggleMouthMove]...[.][ToggleMouthMove][A]
+I was so worried about you[ToggleMouthMove]...[ToggleMouthMove][.][A]
 I'm so happy to see you're safe.[.][A]
 But wait, where are Seth and Ephraim?[A]
-[OpenRight]I wish I knew about my brother's whereabout.[A]
+[OpenRight]I wish I knew about[.]
+my brother's whereabout.[A]
 [OpenMidLeft]You haven't heard from him? Oh, I[.]
 hope he's not been harmed[ToggleMouthMove]...[ToggleMouthMove][.][A]
 Then how about Seth? Is he okay?[A]
 [OpenRight]About Seth[ToggleMouthMove]...[ToggleMouthMove][.][A]
-[CloseEyes]He protected me and didn't make it out alive.[OpenEyes][A]
-[OpenMidLeft]Oh[ToggleMouthMove]... [ToggleMouthMove]I don't even know what to say.[A]
+[CloseEyes]He protected me and[.]
+didn't make it out alive.[OpenEyes][A]
+[OpenMidLeft]Oh[ToggleMouthMove]... [ToggleMouthMove][.][A]
+I don't even know what to say.[A]
 [OpenRight]It's okay. [ToggleSmile]At least, he died in peace[.]
 knowing that I'm alive now.[ToggleSmile][A]
 [OpenMidLeft]If you ever need help, I'll[ToggleSmile][.]
-be by your side.[ToggleSmile][.][A]
-However, we must find[.]
-your brother with haste.[.][A]
+always be by your side.[ToggleSmile][.][A]
+Oh but that means we must[.]
+find your brother right now.[A]
 Let's go to Castle Frelia.[.][A]
 My father may know something.[A]
 [OpenRight]Thank you, Tana.[A][OpenMidRight]
-
 [0D4E]
 [OpenMidLeft][LoadFace][0x106]
 [OpenMidRight][LoadFace][0x102]
-[OpenMidLeft]Princess Eirika, it is good[.]
-to see you're well.[.][A]
-[OpenMidRight]Franz, you made it through unscathed[ToggleMouthMove]...[ToggleMouthMove][.][A][OpenMidLeft]Y-yes, Your Highness![.][A]
-I was informed about the situation in Renais.[A]
-I also heard that Princess Tana was[.]
-in danger as well, here at Mulan.[.][A]
-I tried to come here as fast as I could.[.][A]
+[OpenMidLeft]Princess Eirika, it's good to[.]
+see you're well.[A]
+[OpenMidRight]Franz, you made it through unscathed[ToggleMouthMove]...[ToggleMouthMove][A]
+[OpenMidLeft]Y-Yes, Your Highness![.][A]
+I was informed about the situation in[.]
+Renais. [A]
+I also heard that Princess[.]
+Tana was in danger here at Mulan.[.][A]
+So I tried to come here as fast as I could.[A]
 [OpenMidRight]Tana is here?[.][A]
-Franz, we must hurry![.][A]
+Franz, we must hurry![A]
 [OpenMidLeft]Understood![A]
+[0D4F]
+[OpenMidLeft][LoadFace][0x104]
+Why's there a reinforcement here?[.][A]
+What on earth is going on?[.][A]
+In any case, we should be careful.[A]
+[0D50]
+[OpenMidRight][LoadFace][0x102]
+It seems like Grado's army[.]
+has already reached Frelia.[.][A]
+[ToggleMouthMove]...[.][ToggleMouthMove][A]
+I can't just ignore this.[.][A][Clear]
+I won't let the people[.]
+suffer any much longer.[A]
 [08591AB0]
 An 
 [08591AAC]
