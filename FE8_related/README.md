@@ -26,11 +26,16 @@ General change up until the current edited chapter:
 
 12/27/2024 (Asia):
 - Rework Ch. Prologue
+  * Phantom can only hit Seth
+  * O'Neil will get aggressive after Seth's death or O'Neil's the only one left.
+  * Removed Seth's Silver Lance
   * Edited the map even further
   * Objective changed to Rout all enemies
   * Changed dialogue texts of Seth
 - Rework Ch. 1
+  * Phantom can only hit Erika
   * Changed enemies' formations and AIs
   * Upgraded enemies to Lv. 5
   * Promoted Breguet to Lv. 9 General
-  * Remove Franz's vulneraries
+  * Removed fog
+  * Removed Franz's Vulneraries
