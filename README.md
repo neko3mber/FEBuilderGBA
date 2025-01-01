@@ -8,3 +8,11 @@ The original README is from the repository in which I forked from, it also conta
 Any update that I made upon the ROM will be written manually as logs in a .txt file.
 
 P/S: I'm omitting every other file for now.
+
+My intention for this modification
+===
+- Banning mostly all healing items like vulnerary or elixir
+- Nerfing healing staves
+- Currently, I'm only working on Hard mode, Easy and Normal modes may break (most likely)
+- Buffing every enemy
+- Adding modified weapons (weapon's model is the same as the OG)
