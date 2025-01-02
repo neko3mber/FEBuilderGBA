@@ -14,5 +14,5 @@ My intention for this modification
 - Banning mostly all healing items like vulnerary or elixir
 - Nerfing healing staves
 - Currently, I'm only working on Hard mode, Easy and Normal modes may break (most likely)
-- Buffing every enemy
+- Making game intentionally way harder (enemy, reinforcement, map layout, etc.)
 - Adding modified weapons (weapon's model is the same as the OG)
