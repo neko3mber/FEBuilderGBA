@@ -9,10 +9,18 @@ Any update that I made upon the ROM will be written manually as logs in a .txt f
 
 P/S: I'm omitting every other file for now.
 
-My intention for this modification
+My modification
 ===
-- Banning mostly all healing items like vulnerary or elixir
-- Nerfing healing staves
-- Currently, I'm only working on Hard mode, Easy and Normal modes may break (most likely)
-- Making game intentionally way harder (enemy, reinforcement, map layout, etc.)
-- Adding modified weapons (weapon's model is the same as the OG)
+- Banning mostly all healing items like vulnerary or elixir (WIP)
+- Nerfing healing staves (WIP)
+- Currently, I'm only working on Hard mode, Easy and Normal modes may break (most likely) (WIP)
+- Making game intentionally way harder (enemy, reinforcement, map layout, etc.) (WIP)
+- Adding modified weapons (weapon's model is the same as the OG) (Optional)
+
+Controls
+===
+- WASD / ULDR (key arrows) to move the cursor around
+- LKIO to select / confirm, cancel, automatically place the cursor on the MC, and inspect unit at the cursor's position
+- Spacebar to speedup the game
+- Shift + F1-10 to save current state of the game
+- F1-10 to load a state (if there is)
