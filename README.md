@@ -24,7 +24,7 @@ My modification
 How to use
 ===
 ~~You just need to get in FE8_related, download the VBA.zip and the .gba file, extract the zip to anywhere you like.\
-Then, you open the VBA.exe. Inside the emulator, you open the downloaded .gba file and you start to play.~~
+Then, you open the VBA.exe. Inside the emulator, you open the downloaded .gba file and you start to play.~~\
 You just need to download the zip files, the original ROM (.GBA) and the UPS file.\
 Then, you extract all of the files inside the NUPS.zip.\
 You run the .exe and choose "Apply an UPS patch to a file". It will open up another menu.\
