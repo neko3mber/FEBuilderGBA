@@ -1,3 +1,7 @@
+Check it out if you're free
+===
+Please check out my other branch (experimenting) to experience my progess, it is still a work in progress (WIP), don't expect much though.
+
 FE_Builder_GBA
 ===
 This is a ROM hacking suite for the Trilogy of Fire Emblem games for the Game Boy Advance.
