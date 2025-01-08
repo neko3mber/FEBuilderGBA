@@ -56,7 +56,7 @@ General change up until the current edited chapter:
   * Objective stayed the same.
   * Dialogue texts stayed the same (WIP).
 
-01/08/2025 (Asia): Adding skills to (Great) Lord units, Eirika and Ephraim
+01/08/2025 (Asia): Adding skills to classes (Great) Lord, class Phantom, Eirika and Ephraim
   * Almost every unit and every class type has a default skill.
   * Lord (M/F)
     - Lancefaire / Swordfaire (Lv. 10)
@@ -66,3 +66,8 @@ General change up until the current edited chapter:
     - Charge / Battle Veteran (Lv. 20)
   * Ephraim/Eirika (Def: Inspiration / Patience)
     - Supply (Lv. 5)
+  * Phantom (Def: Lancebreaker)
+    - Watchful (Lv. 1)
+    - Axefaire (Lv. 10)
+    - Insight (Lv. 20)
+    - Heavy Strikes (Lv. 30)
