@@ -40,8 +40,8 @@ Controls
 - LKIO to select / confirm, cancel, automatically place the cursor on blue units, inspect unit at the cursor's position.
 - Spacebar to speedup the game.
 - Enter to skip cutscenes.
-- Shift + F1-10 to save current state of the game.
-- F1-10 to load a state (if there is).
+- Shift + F1-10 / Ctrl + S to save current state to the specified slot state / save current state to the oldest slot state.
+- F1-10 / Ctrl + L to load a state (if there is) / load the newest slot state (if there is).
 
 P/S 
 ===
