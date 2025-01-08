@@ -55,3 +55,14 @@ General change up until the current edited chapter:
   * Edited the map.
   * Objective stayed the same.
   * Dialogue texts stayed the same (WIP).
+
+01/08/2025 (Asia): Adding skills to (Great) Lord units, Eirika and Ephraim
+  * Almost every unit and every class type has a default skill.
+  * Lord (M/F)
+    - Lancefaire / Swordfaire (Lv. 10)
+    - Bond / Charisma (Lv. 20)
+  * Great Lord (M/F) (Def: Canto)
+    - Blossom (Lv. 10)
+    - Charge / Battle Veteran (Lv. 20)
+  * Ephraim/Eirika (Def: Inspiration / Patience)
+    - Supply (Lv. 5)
