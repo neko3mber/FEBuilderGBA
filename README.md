@@ -28,7 +28,7 @@ Then, you open the VBA.exe. Inside the emulator, you open the downloaded .gba fi
 You just need to download the zip files, the original ROM (.gba) and the UPS file.\
 Then, you extract all of the files inside the NUPS.zip.\
 You run the .exe file and choose "Apply an UPS patch to a file". It will open up another menu.\
-In the "File to patch", you choose the unmodified ROM (you can get it in here or you can use your one).\
+In the "File to patch", you choose the unmodified ROM (you can get it in here in FETSS.zip or you can use your one).\
 In the "UPS patch", you choose my UPS file.\
 Finally, you click "Patch" and there you have it, my remade version inside the ROM :D.\
 In order to play, you extract the .exe file inside the VBA.zip.\
