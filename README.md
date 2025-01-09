@@ -36,7 +36,7 @@ How to use
 Download everything in the "Downloads".\
 Then, you extract all of the files inside the NUPS.zip.\
 You run the .exe file and choose "Apply an UPS patch to a file". It will open up another menu.\
-In the "File to patch", you choose the unmodified ROM (you can get it in here in FETSS.zip or you can use your one).\
+In the "File to patch", you choose the unmodified ROM (you can get it in clean_ROM(FE8).zip or you can use your one).\
 In the "UPS patch", you choose my UPS file.\
 Finally, you click "Patch" and there you have it, my remade version inside the ROM :D.\
 In order to play, you extract the .exe file inside the VBA.zip.\
