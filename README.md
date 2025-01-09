@@ -21,11 +21,19 @@ My modification
 - Making game intentionally harder (enemy, reinforcement, map layout, etc.) (WIP)
 - Adding modified weapons (weapon's model is the same as the OG) (Optional)
 
+Downloads
+===
+Download once:
+- Clean ROM: [clean_ROM(FE8).zip](clean_ROM(FE8).zip?raw=1)
+- NUPS: [NUPS.zip](NUPS.zip?raw=1)
+- VBA: [VBA.zip](VBA.zip?raw=1)
+
+Download again everytime new chapter is edited (Currently editing Ch. 3):
+- UPS: [FE-TSS.PATCH.01-07-2025.ups](FE-TSS.PATCH.01-07-2025.ups?raw=1)
+
 How to use
 ===
-~~You just need to get in FE8_related, download the VBA.zip and the .gba file, extract the zip to anywhere you like.\
-Then, you open the VBA.exe. Inside the emulator, you open the downloaded .gba file and you start to play.~~\
-You just need to press on zip files and click "view raw" to download them, ~~the original ROM (.gba)~~ and the UPS file.\
+Download everything in the "Downloads".\
 Then, you extract all of the files inside the NUPS.zip.\
 You run the .exe file and choose "Apply an UPS patch to a file". It will open up another menu.\
 In the "File to patch", you choose the unmodified ROM (you can get it in here in FETSS.zip or you can use your one).\
